@@ -1,0 +1,16 @@
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\inlamning1.exe
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\inlamning1.deps.json
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\inlamning1.runtimeconfig.json
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\inlamning1.runtimeconfig.dev.json
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\inlamning1.dll
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\ref\inlamning1.dll
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\bin\Debug\net5.0\inlamning1.pdb
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.csproj.AssemblyReference.cache
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.AssemblyInfoInputs.cache
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.AssemblyInfo.cs
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.csproj.CoreCompileInputs.cache
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.dll
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\ref\inlamning1.dll
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.pdb
+C:\Users\20amed\source\repos\pg1_AmandaEdblad\inlamning1\inlamning1\obj\Debug\net5.0\inlamning1.genruntimeconfig.cache
